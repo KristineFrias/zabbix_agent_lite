@@ -19,4 +19,5 @@ supports 'redhat', '>= 7.0'
 supports 'oracle', '>= 7.0'
 supports 'windows'
 
-depends 'chocolatey', '~> 2.0.0'
+#depends 'chocolatey', '~> 2.0.0'
+
